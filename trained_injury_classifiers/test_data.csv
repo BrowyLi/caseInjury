@@ -1,0 +1,180 @@
+injury_texts,injury_categories
+" Lower Back Injury,  Post Closed Head Injury with Slight Residual Ataxia and Memory Loss","Neck or Back;Head, Skull;Cognitive Problem"
+"Aggravation of Pre-existing Osteoarthritis in Hip and Spine, Fracture of Both Hips","Spine;Hip, Pelvis"
+" Post-Concussion Syndrome Involving Some Memory Loss and Impairment,  Spasms",Cognitive Problem
+" Muscle Tightness, Contractions, and Spasticity, ""Floppy Toe""",Unspecified Muscle Injuries;Foot
+" Loss of Curve in the Neck, Wrongful Death",Neck or Back;Death
+" False Imprisonment, Wrongful Death",Legal Malpractice;Death
+" Left Ankle Jerk,  Depression",Joint;Depression
+" Risk of Further Degenerative Disease, Survival Action",Unspecified;Survival Action
+"Survival Action,  Wrongful Death",Survival Action;Death
+" Gash in Scalp, Cervical and Lumbar Muscle Sprains","Head, Skull;Neck or Back"
+" Permanent Scarring and Discoloration at Site of Wound,  Back Injury",Unspecified;Neck or Back
+" Cervical and Shoulder Sprain, Survival Action",Shoulder; Neck or Back;Survival Action
+" Cerebral Meningitis, Wrongful Death",Brain;Death
+" Wrongful Death, Anxiety Stemming from Asbestos Exposure",Death;General Emotional Problems
+" Neck and Shoulder Pain,  Muscle Tightness, Contractions, and Spasticity",Shoulder;Neck or Back;Unspecified Muscle Injuries
+"Soft Tissue Back Injury,  Torn Shoulder Ligaments",Neck or Back;Shoulder
+" Post Closed Head Injury with Slight Residual Ataxia and Memory Loss,  Occipital Headaches","Cognitive Problems;Head, Skull"
+"Wrongful Death, Soft-Tissue Neck Injury",Death;Neck or Back
+" Survival Action,  Lower Back Injury",Survival Action;Neck or Back
+" Bruised Heel, Wrongful Death",Foot;Death
+" Early Birth Contractions, Wrongful Death",Death
+"Wrongful Death,  Post Closed Head Injury with Slight Residual Ataxia and Memory Loss","Death;Head, Skull;Cognitive Problems"
+" Seizure Disorder,  Fractured Wrist",Severe Disease;Wrist
+" Cervical and Shoulder Sprain, Wrongful Death",Shoulder;Neck or Back;Death
+"Survival Action,  Headaches","Survival Action;Head, Skull"
+"Compound Fracture to Left Finger,  Gunshot Injury to Stomach",Finger;Gunshot; Stomach
+" Hip Pain,  Risk of Further Degenerative Disease","Hip, Pelvis;Unspecified"
+" Synovitis of Right Knee,  Bruised Heel",Joint;Foot
+" Neck and Shoulder Pain,  Mental Distress",Shoulder;Neck or Back;Depression
+" Spasms, Bystander Action",Unspecified;Emotional Distress for Bystander
+" Post Closed Head Injury with Slight Residual Ataxia and Memory Loss, Wrongful Death","Cognitive Problems;Head, Skull;Death"
+"Sprains and Tenderness of Neck, Left Arm, Elbow, Upper Back, and Jaw, Soft Tissue Back Injury",Arm;Joint;Jaw;Neck or Back
+" Bruised Heel,  Strain/Sprain to Knee and Sternum",Foot;Joint;Sternum
+" Severe Closed Head Brain Injury,  Loss of Mental Function","Head, Skull;Cognitive Problem"
+" Wrongful Death,  Headaches","Death;Head, Skull"
+" Neck and Shoulder Pain,  Future Psychotherapy",Shoulder; Neck or Back;[unknown]
+"Wrongful Death,  Wrongful Death",Death
+"Survival Action, Wrongful Death",Survival Action;Death
+"Wrongful Death,  Mental Distress",Death;Depression
+"Bystander Damages,  Anxiety and Insomnia",Emotional Distress for Bystander;Sleeping Problem;General Emotional Problems
+" Mental Distress, Wrongful Death",Depression;Death
+"Muscle Spasm in Lower Thoracic Spine and Lower Back that Decreased Range of Motion by 50%, Wrongful Death",Spine;Neck or Back;Death
+" Elbow Fracture, Wrongful Death",Joint;Death
+"Wrongful Death,  Headaches","Death;Head, Skull"
+"Survival Action,  Strain/Sprain to Knee and Sternum",Survival Action;Joint; Sternum
+" Mental Distress,  Gash in Scalp","Depression;Head, Skull"
+"Severe Abdominal Pain,  Post Closed Head Injury with Slight Residual Ataxia and Memory Loss","Abdomen;Head, Skull;Cognitive Problem"
+" Cerebral Spinal Fluid Leakage,  Back Pain",Spine;Neck or Back
+" Pain in Right Arm,  Bruised Heel",Arm;Foot
+"Wrongful Death,  Neck and Shoulder Pain",Death;Shoulder;Neck or Back
+" Loss of Mental Function,  Injury that Required Both Legs to be Amputated Above the Knee",Cognitive Problem;Leg
+" Injury that Required Both Legs to be Amputated Above the Knee, Herniated Lumbar Disc",Leg;Spine
+" Depression, Aggravation of Pre-Existing Neck and Back Injury",Depression;Neck or Back
+"Bulge at the C-5,  Bone Graft",Spine;Unspecified Bone Injuries
+" Stroke,  Gunshot Injury to Stomach",Severe Disease;Gunshot; Stomach
+" Paranoia, Wrongful Death",General Emotional Problems;Death
+"Survival Action,  Cervical and Shoulder Sprain",Survival Action;Shoulder; Neck or Back
+" Bruised Heel,  Bone Graft",Foot;Unspecified Bone Injuries
+" Hip Pain,  Leg Pain","Hip, Pelvis;Leg"
+"Wrongful Death,  Left Knee Contusion",Death;Joint
+" Seizure Disorder,  Gunshot Injury to Stomach",Severe Disease;Gunshot; Stomach
+" Neck and Shoulder Pain,  Injuries to Hands and Fingers",Shoulder; Neck or Back;Finger; Hand
+"Survival Action,  Paranoia",Survival Action;General Emotional Problems
+"Survival Action,  Chronic Back Pain",Survival Action;Neck or Back
+" Occipital Headaches,  Lower Back Injury","Head, Skull;Neck or Back"
+"Severe Abdominal Pain,  Risk of Further Degenerative Disease",Abdomen;Unspecified
+"Back Injury,  Other Minor Injuries",Neck or Back;Unspecified
+" Wrongful Death, Herniated Lumbar Disc",Death;Spine
+"Wrongful Death,  Loss of Sexual Desire",Death;Sexual Dysfunction
+" Bruised Heel, Survival Action",Foot;Survival Action
+"Lumbar Disc Protrusions, Wrongful Death",Spine;Death
+"Amputated Arm, Wrongful Death",Arm;Death
+" Depression,  Spasms",Depression
+" Post Closed Head Injury with Slight Residual Ataxia and Memory Loss,  Headaches","Cognitive Problems;Head, Skull"
+"Mental Trauma, Herniated Cervical Disc at C5-C6 Requiring Surgery",Cognitive Problem;Spine
+" Depression,  Injuries to Hands and Fingers",Depression;Finger; Hand
+"Wrongful Death,  Depression",Death;Depression
+" Neck and Shoulder Pain,  Severe Cervical Strain",Shoulder; Neck or Back;Neck or Back
+" Broken Rib,  Soft Tissue Injury of the Thoracic Spine",Ribs;Spine
+" Mental Distress,  Back Injury",Depression;Neck or Back
+"Survival Action,  Severe Closed Head Brain Injury","Survival Action;Head, Skull"
+" Gunshot Injury to Stomach, Wrongful Death",Gunshot; Stomach;Death
+" Neck and Shoulder Pain,  Anxiety and Insomnia",Shoulder; Neck or Back;General Emotional Problems;Sleeping Problem
+" Leg Pain,  Aggravation of Previously Asymptomatic Spondylolisthesis",Leg;Spine
+" Post Closed Head Injury with Slight Residual Ataxia and Memory Loss,  Wrongful Death","Cognitive Problems;Head, Skull;Death"
+" Elbow Fracture,  Risk of Further Degenerative Disease",Joint;Unspecified
+"Wrongful Death, ""Floppy Toe""",Death;Foot
+" Mental Distress,  Seizure Disorder",Depression;Severe Disease
+" Spasms, Broken Leg",Leg
+"Wrongful Death,  Hip Pain","Death;Hip, Pelvis"
+"Degeneration of the SI Joint,  Survival Action",Spine;Survival Action
+"Survival Action, Aggravation of Pre-existing Osteoarthritis in Hip and Spine","Survival Action;Spine;Hip, Pelvis"
+" Gunshot Injury to Stomach,  Occipital Headaches","Gunshot; Stomach;Head, Skull"
+"Wrongful Death, Survival Action",Death;Survival Action
+"Wrongful Death,  Broken Tooth",Death;Mouth or Teeth
+"Anxiety Stemming from Asbestos Exposure, Wrongful Death",General Emotional Problems;Death
+" Stroke, Survival Action",Severe Disease;Survival Action
+" Gash in Scalp,  Hip Pain","Head, Skull;Hip, Pelvis"
+" Spasms, Past and Future Loss of Love and Affection and Society",Alienation of Affection;Unspecified
+" Neck and Shoulder Pain, Wrongful Death",Shoulder; Neck or Back;Death
+" Mental Trauma, Survival Action",Cognitive Problem;Survival Action
+" Bone Graft,  Cervical and Shoulder Sprain",Unspecified Bone Injuries;Shoulder; Neck or Back
+" Severe Cervical Strain,  Anxiety and Insomnia",Neck or Back;Sleeping Problem;General Emotional Problems
+" Pain in Both Knees,  Bruising of Left Hand",Joint;Hand
+" Spasms,  Wrongful Death",Unspecified;Death
+" Abdominal Scratches,  Strain/Sprain to Knee and Sternum",Abdomen;Joint; Sternum
+" Post Closed Head Injury with Slight Residual Ataxia and Memory Loss,  Loss of Mental Function","Head, Skull;Cognitive Problem"
+"Wrongful Death,  Back Pain",Death;Neck or Back
+"Bruised Knee,  Bruising of Left Hand",Joint;Hand
+" Back Pain, Wrongful Death",Neck or Back;Death
+"Past and Future Loss of Love and Affection and Society,  Mental Distress",Depression;Alienation of Affection
+" Bruised Heel,  Back Pain",Foot;Neck or Back
+"Bystander Action,  Severe Closed Head Brain Injury","Emotional Distress for Bystander;Head, Skull;Brain"
+"Aggravation of Pre-existing Osteoarthritis in Hip and Spine,  Back Pain","Spine;Hip, Pelvis;Neck or Back"
+"Wrongful Death, Herniated Cervical Disc at C5-C6 Requiring Surgery",Death;Spine
+"Punctured Bowel, Wrongful Death",Intestine;Death
+" Early Birth Contractions,  Back Pain",Neck or Back
+" Limitation in Range of Shoulder Movement, Loss of consortium",Shoulder
+"Wrongful Death, Lumbar Strain",Death;Neck or Back
+"Lumbar Strain,  Bone Graft",Neck or Back;Unspecified Bone Injuries
+" Broken Tooth, Torn Rotator Cuff",Mouth or Teeth;Shoulder
+"Sprains and Tenderness of Neck, Left Arm, Elbow, Upper Back, and Jaw, Wrongful Death",Neck or Back;Jaw;Arm;Joint;Death
+"Wrongful Death,  Bruising of Left Hand",Death;Hand
+"Aggravation of Pre-Existing Neck and Back Injury,  Wrongful Death",Neck or Back;Death
+"Wrongful Death,  Elbow Fracture",Death;Joint
+" Bruising of Left Hand, Bystander Action",Hand;Emotional Distress for Bystander
+"""Floppy Toe"",  Neck and Shoulder Pain",Foot;Shoulder;Neck or Back
+" Mental Trauma, Wrongful Death",Cognitive Problem;Death
+" Soft Tissue Injury of the Thoracic Spine,  Spasms",Spine;Unspecified
+"Bystander Action,  Other Minor Injuries",Emotional Distress for Bystander;Unspecified
+" Post Closed Head Injury with Slight Residual Ataxia and Memory Loss, Past and Future Loss of Love and Affection and Society","Head, Skull;Cognitive Problem;Alienation of Affection"
+" Bone Graft,  Risk of Further Degenerative Disease",Unspecified Muscle Injuries;Survival Action
+" Leg Pain, Survival Action",Leg;Survival Action
+" Hip Pain,  Post Closed Head Injury with Slight Residual Ataxia and Memory Loss","Hip, Pelvis;Cognitive Problems;Head, Skull"
+" Spasms, Wrongful Death",Unspecified;Death
+" Bone Graft,  Post Closed Head Injury with Slight Residual Ataxia and Memory Loss","Unspecified Muscle Injuries;Cognitive Problems;Head, Skull"
+"Wrongful Death, Broken Leg",Death;Leg
+"Wrongful Death,  Anxiety and Insomnia",Death;General Emotional Problems;Sleeping Problem
+" Headaches, Wrongful Death","Head, Skull;Death"
+" Intentional Infliction of Emotional Distress,  Depression",General Emotional Problems;Depression
+"Herniated Lumbar Disc, Survival Action",Spine;Survival Action
+"Bystander Action, Aggravation of Pre-Existing Neck and Back Injury",Unspecified;Neck or Back
+" Spasms,  Pain in Right Arm",Unspecified;Arm
+"Muscle Spasm in Lower Thoracic Spine and Lower Back that Decreased Range of Motion by 50%, Past and Future Loss of Love and Affection and Society",Spine;Neck or Back;Affection of Alienation
+" Trauma-Induced Arthritis, Aggravation of Pre-existing Osteoarthritis in Hip and Spine","Arthritis;Hip, Pelvis;Spine"
+" Hip Pain, Loss of consortium","Hip, Pelvis"
+"Lumbar Disc Protrusions,  Left Knee Contusion",Spine;Joint
+" Seizure Disorder,  Headaches","Severe Disease;Head, Skull"
+" Sprains and Tenderness to Neck, Left Arm, Elbow, Upper Back, and Jaw, Wrongful Death",Neck or Back;Joint;Arm;Jaw;Death
+" Headaches,  Elbow Fracture","Head, Skull;Joint"
+" Muscle Tightness, Contractions, and Spasticity, Wrongful Death",Unspecified Muscle Injuries;Death
+" Back Injury, Wrongful Death",Neck or Back;Death
+"Bystander Action,  Paranoia",Emotional Distress for Bystander;General Emotional Problems
+"Wrongful Death,  Chronic Back Pain",Death;Neck or Back
+"Wrongful Death,  Early Birth Contractions",Death
+" Pain in Right Arm,  Severe Cervical Strain",Arm;Neck or Back
+"Survival Action,  Cerebral Meningitis",Survival Action;Brain
+" Loss of Sexual Desire,  Mental Distress",Sexual Dysfunction;Depression
+" Lumbar Strain,  Survival Action",Neck or Back;Survival Action
+" Headaches,  Post-Concussion Syndrome Involving Some Memory Loss and Impairment","Head, Skull;Cognitive Problem"
+" Loss of Mental Function,  Aggravation of Pre-Existing Non- Symptomatic Condition",Cognitive Problem
+" Left Thigh and Knee Sprain/Contusion,  Loss of Mental Function",Joint; Leg;Cognitive Problem
+" Bruised Heel,  Bruising of Left Hand",Foot;Hand
+" Paranoia,  Other Minor Injuries",General Emotional Problems;Unspecified
+"Bulging Lumbar Disc,  Wrongful Death",Spine;Death
+"Punctured Bowel,  Other Minor Injuries",Intestine;Unspecified
+" Wrongful Death, Aggravation of Pre-existing Osteoarthritis in Hip and Spine","Death;Hip, Pelvis;Spine"
+" Chronic Back Pain, Wrongful Death",Neck or Back;Death
+" Lower Back Injury,  Wrongful Death",Neck or Back;Death
+" Cerebral Meningitis,  Pain in Both Knees",Brain;Joint
+"Survival Action,  Left Knee Contusion",Survival Action;Joint
+" Mental Trauma, Head Injury Resulting in Brain Damage","Cognitive Problem;Head, Skull"
+" Cervical and Shoulder Sprain,  Loss of Mental Function",Shoulder; Neck or Back;Cognitive Problem
+"Fracture of Both Hips,  Survival Action","Hip, Pelvis;Survival Action"
+" Gash in Scalp,  Survival Action","Head, Skull;Survival Action"
+" Bruising of Left Hand,  Lumbar Strain",Hand;Neck or Back
+"Wrongful Death, Hand Injury",Death;Hand
+" Wrongful Death, Wrongful Death",Death
+" Inconvenience and Nuisance, Wrongful Death",Unspecified;Death
