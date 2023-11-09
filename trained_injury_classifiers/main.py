@@ -310,7 +310,7 @@ def main(args):
         for injtype in all_injtypes:
 
             classifier.load_state_dict(
-                torch.load(r"\home\zhexuan_li" + r"\best-classifier-{}.pt".format(injtype), map_location = device)
+                torch.load(r"/home/zhexuan_li" + r"/best-classifier-{}.pt".format(injtype), map_location = device)
             )
             classifier.eval()
             # print(description_result)
